@@ -1,4 +1,10 @@
 ### Hi there 👋
+这里是@flightmakers.
+Blog ->> cnblogs.com / juejin.cn / twitter.com
+Demos ->> github.com / gitee.com
+Video ->> bilibili.com(@Maker忘我思考,@忘思聊斋Podcast,@忘潇非人哉)
+Contact ->> Wechat: designecstasy / Mail: yiningdev@zoho.com.cn for work & designecstasy@163.com / QQ:3461896724
+Website... on FocusList! (Demo: cnblogs.com/flightmakers)
 
 <!--
 **flightmakers/flightmakers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
