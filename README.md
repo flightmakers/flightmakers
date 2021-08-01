@@ -1,6 +1,6 @@
 ### Hi there 👋  
-这里是@flightmakers.  Coding Changes the World!
-座右铭: 人生的真正价值在于从何种程度与何种意义上摆脱自我 - 爱因斯坦
+这里是@flightmakers.  Coding Changes the World!  
+座右铭: 人生的真正价值在于从何种程度与何种意义上摆脱自我 - 爱因斯坦  
 Blog ->> cnblogs.com / juejin.cn / twitter.com  
 Demos ->> github.com / gitee.com  
 Video ->> bilibili.com(@Maker忘我思考,@忘思聊斋Podcast,@忘潇非人哉)  
