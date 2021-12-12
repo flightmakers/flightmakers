@@ -1,5 +1,13 @@
 ```
 <!-- The Problem is that you think you have time. -->
++ wait
++ focus
++ metaTag
+
+- arc
+- time
+- view
+- play
 ```
 
 # About me
