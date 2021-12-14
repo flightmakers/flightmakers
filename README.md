@@ -1,8 +1,8 @@
 ```
 <!-- The Problem is that you think you have time. -->
-+ wait
-+ focus
-+ metaTag
++ wait(time+)
++ focus(axc)
++ abstract(vy)
 
 - arc
 - time
