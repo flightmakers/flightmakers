@@ -1,8 +1,9 @@
 ```
 <!-- The Problem is that you think you have time. -->
-+ wait(time+)
-+ focus(axc)
-+ abstract(vy)
+# Abstract
++ love
++ wait
++ break
 
 - arc
 - time
@@ -10,8 +11,12 @@
 - play
 ```
 
+# Projects
+- Go Ahd.
+
 # About me
 > Arc Developer  
+> fly to 2022
 > \+ ..
 
 # Find me
