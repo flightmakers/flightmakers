@@ -1,14 +1,19 @@
 ```
 <!-- The Problem is that you think you have time. -->
-# Abstract
++ Abstract 
++ Verse
 + love
 + wait
 + break
++ define
++ motion
++ sleep
 
-- arc
+- axc
 - time
 - view
 - play
+- devfine
 ```
 
 # Projects
