@@ -1,4 +1,6 @@
 ```
+初生维度_F0123.AXCDEFO\HI&;LM[]OQRSTOVYZ
+Google Meta
 <!-- The Problem is that you think you have time. -->
 + Abstract 
 + Verse
@@ -14,6 +16,10 @@
 - view
 - play
 - devfine
+- FOX OS
+- IDEA TO MOVE
+- FORCE XYZ
+- DEVFINEANYTHING
 ```
 
 # Projects
