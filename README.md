@@ -1,3 +1,13 @@
+0
+1
+1
+0
+0
+1
+1
+0
+1024*1024T COMPUTER DATA = 2^10^6
+ANY NUMBER = 2^N+3^N
 ```
 初生维度_F0123.AXCDEFO\HI&;LM[]OQRSTOVYZ
 Google Meta
@@ -23,7 +33,8 @@ Google Meta
 ```
 
 # Projects
-- Go Ahd.
+- LIGHT_MIND
+- LET TIME Go Ahd.
 
 # About me
 > Arc Developer  
