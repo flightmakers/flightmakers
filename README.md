@@ -1,10 +1,10 @@
-voyage->>
+voyage ___>>
 
 ```
 <!-- The Problem is that you think you have time. -->
-+ Abstract 
-+ Verse
-+ love
++ abstract 
++ verse
++ lover
 + wait
 + break
 + motion
@@ -13,11 +13,10 @@ voyage->>
 - time
 - view
 - play
-- devfine
-- FOX OS
+- monospace
+- firedoge
 - IDEA TO MOVE
-- FORCE XYZ
-- DEVFINEANYTHING
+- REvive.
 ```
 
 # Projects
